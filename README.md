@@ -1,6 +1,6 @@
-# Tela desenvolvida com base no desafio do site Front-End Mentor 
+## Tela desenvolvida com base no desafio do site Front-End Mentor 
 
-## Desenvolvido com:
+### Desenvolvido com:
 
-### - HTML
-### - CSS
+#### - HTML
+#### - CSS
